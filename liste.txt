@@ -1,0 +1,4 @@
+user-friendly interface
+dark mode support
+fast performance
+cloud backup support
